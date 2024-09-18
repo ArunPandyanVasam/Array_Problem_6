@@ -1,0 +1,11 @@
+# ninja log v6
+1	41	1726652474744626966	CMakeFiles/Array_Problem_6.dir/main.c.o	24aa323d7c2ef8af
+42	60	1726652474784627427	Array_Problem_6	f23bbcad58df0a41
+1	41	1726652498956906255	CMakeFiles/Array_Problem_6.dir/main.c.o	24aa323d7c2ef8af
+41	58	1726652498996906716	Array_Problem_6	f23bbcad58df0a41
+1	44	1726653098911818681	CMakeFiles/Array_Problem_6.dir/main.c.o	24aa323d7c2ef8af
+44	62	1726653098955819188	Array_Problem_6	f23bbcad58df0a41
+1	44	1726654109109478689	CMakeFiles/Array_Problem_6.dir/main.c.o	24aa323d7c2ef8af
+44	62	1726654109153480720	Array_Problem_6	f23bbcad58df0a41
+1	46	1726654168407981343	CMakeFiles/Array_Problem_6.dir/main.c.o	24aa323d7c2ef8af
+46	93	1726654168451983047	Array_Problem_6	f23bbcad58df0a41
